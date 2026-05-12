@@ -57,16 +57,6 @@ You’ll also find smaller utilities, experiments, and internal tools that explo
 
 ---
 
-## Stack and capabilities
-
-- AI and orchestration: Anthropic, OpenAI, agentic workflows, tools, retrieval, approval flows  
-- Web and backend: TypeScript / JavaScript, React / Next.js, Python, Supabase, serverless and containerised deployments  
-- Ops and infrastructure: Docker, self-hosted services, logging, metrics, security hardening and configuration
-
-The common thread is turning powerful models into reliable systems with clear interfaces and feedback loops.
-
----
-
 ## Work with me
 
 Most of the code here underpins consulting and implementation engagements – tailoring these patterns to a specific business, stack, and risk profile.
