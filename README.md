@@ -37,9 +37,6 @@ These aren’t “one-size-fits-all” SaaS products – they are **reference pa
   Tracks jobs from initial inquiry through to completed work, with stages, next actions, follow-ups, and an approval queue for AI-extracted data.  
   Use case: giving builders, trades, and solo operators a clear pipeline and a lightweight operations brain.
 
-- **dailydigivolve** – Habit and progression app  
-  A playful, progression-based app deployed via Cloudflare Pages with Supabase as the backing store, used to explore behaviour design, testing, and deployment workflows.
-
 You’ll also find smaller utilities, experiments, and internal tools that explore specific ideas in isolation before they’re rolled into client work.
 
 ---
