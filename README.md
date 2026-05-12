@@ -1,72 +1,92 @@
-# Hello, I’m Guide
+<h1 align="center">Guide — AI Systems & Operations</h1>
 
-I design and implement practical AI systems that automate workflows, improve observability, and scale safely inside real businesses.
+<p align="center">
+  <b>Designing, implementing, and operating practical AI systems for real businesses.</b>
+</p>
 
-This profile is a working portfolio of the tools, patterns, and reference implementations used in client work: agentic operating systems, command centres for AI environments, and vertical apps that plug into existing stacks rather than replacing them.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Agentic%20Workflows-111827?style=flat" />
+  <img src="https://img.shields.io/badge/Stack-Anthropic%20%7C%20OpenAI%20%7C%20TypeScript-111827?style=flat" />
+  <img src="https://img.shields.io/badge/Profile-AI%20Implementer%20%2F%20Consultant-111827?style=flat" />
+  <img src="https://img.shields.io/badge/Certification-Anthropic%20CCA--F-0B172A?style=flat" />
+</p>
+
+---
+
+## About this profile
+
+This GitHub is a working portfolio of the systems, patterns, and reference implementations used in client work: agentic operating systems, AI command centres, and domain-specific apps that plug into existing stacks rather than replacing them.
+
+The emphasis is on shippable systems – code that can be adapted to a client environment, not just one-off demos.
 
 ---
 
 ## What I do
 
-- **AI implementation & consulting**  
-  Scoping, designing, and shipping AI-powered workflows for operations, customer support, content, and internal tooling.
+- AI implementation and consulting  
+  Scoping, designing, and shipping AI-powered workflows for operations, support, content, and internal tools.
 
-- **Agentic systems & automation**  
-  Orchestrating multi-step, multi-agent flows that combine LLMs with structured tools, memory, and human-in-the-loop checks.
+- Agentic systems and automation  
+  Orchestrating multi-step, multi-agent flows that combine LLMs, structured tools, and human-in-the-loop approvals.
 
-- **Secure, scalable delivery**  
-  Building solutions with sane defaults around reliability, observability, and access control, so they can actually be run in production environments.
+- Secure, observable, and scalable delivery  
+  Building with sensible defaults for reliability, logging, metrics, and access control so teams can run these systems with confidence.
 
-Models and services used regularly include **Anthropic** and **OpenAI**, with integrations into email, chat platforms, CRMs, and data stores depending on the client’s stack.
+Regular tools of the trade include Anthropic, OpenAI, modern web stacks, and integrations into email, chat, CRMs, and data stores.
 
 ---
 
-## Selected projects
+## Selected patterns and projects
 
-These aren’t “one-size-fits-all” SaaS products – they are **reference patterns** that can be adapted to a client’s environment and tools.
+These are reference implementations, not rigid products. They are designed to be adapted to the tools and constraints of a specific organisation.
 
-- **Agentic OS** – An operating system for directing AI agents around real workflows  
-  Orchestrates tasks across an AI coding environment, knowledge stores, and a custom app layer, with notifications and approvals built in.  
-  Use case: turning scattered AI experiments into a single, client-ready workspace for day-to-day operations.
+- Agentic OS — operating system for AI-powered workflows  
+  Turns your AI stack into a clickable workspace with agents, memory, notifications, and approvals wired into real processes.  
+  Good fit for teams who have outgrown “chat with a model” and want structured workflows.
 
-- **Command Centre** – Observability and steering for your AI environment  
-  A command centre-style dashboard that surfaces token usage, request health, cache behaviour, task queues, and posture checks, with controls to pause, approve, or override behaviours.  
-  Use case: helping teams see what their AI systems are doing, spot issues early, and keep humans in control.
+- Command Centre — observability and control for AI environments  
+  A command-centre style UI that surfaces usage, health, posture checks, and queued tasks, with controls to pause, approve, or override behaviour.  
+  Good fit for teams who want to see what their AI systems are doing and be able to intervene.
 
-- **Guidant 365** – Workflow OS for contractors and freelancers  
-  Tracks jobs from initial inquiry through to completed work, with stages, next actions, follow-ups, and an approval queue for AI-extracted data.  
-  Use case: giving builders, trades, and solo operators a clear pipeline and a lightweight operations brain.
+- Guidant 365 — workflow OS for contractors and freelancers  
+  Tracks jobs from first inquiry to completed work, with stages, next actions, and AI-assisted data extraction under human review.  
+  Good fit for operators who live in their pipeline and need a clear “what is next?” at all times.
+
 
 You’ll also find smaller utilities, experiments, and internal tools that explore specific ideas in isolation before they’re rolled into client work.
 
 ---
 
-## Stack & capabilities
+## Stack and capabilities
 
-- **AI & orchestration**: Anthropic, OpenAI, agentic workflows, tool calling, retrieval, approval flows.  
-- **Web & backend**: TypeScript/JavaScript, React/Next.js, Python, Supabase, serverless and container-based deployment.  
-- **Infrastructure & ops**: Docker, self-hosted services, logging/metrics, and basic security hardening for client environments.
+- AI and orchestration: Anthropic, OpenAI, agentic workflows, tools, retrieval, approval flows  
+- Web and backend: TypeScript / JavaScript, React / Next.js, Python, Supabase, serverless and containerised deployments  
+- Ops and infrastructure: Docker, self-hosted services, logging, metrics, security hardening and configuration
 
-The common thread across projects is **turning models into systems**: reliable workflows, clear interfaces, and the observability needed to trust what’s running.
+The common thread is turning powerful models into reliable systems with clear interfaces and feedback loops.
+
+---
+
+## Credentials and ongoing study
+
+- Anthropic Claude Certified Associate (CCA‑F) — completed
+- Candidate for a Masters in Applied AI  
+- Ongoing work across AI implementation, systems design, and operations consulting
 
 ---
 
 ## Work with me
 
-Most of the code here underpins **consulting and implementation work** – adapting these patterns to a specific business, stack, and risk profile.
+Most of the code here underpins consulting and implementation engagements – tailoring these patterns to a specific business, stack, and risk profile.
 
-If you’re interested in:
+If you are interested in:
 
-- exploring an **agentic OS** tailored to your team  
-- adding a **command centre** layer on top of your existing AI usage  
-- or getting help designing and implementing AI workflows for your operations
+- an agentic OS for your workflows  
+- a command centre on top of your existing AI usage  
+- or help designing and implementing AI workflows for your operations
 
 you can reach out via:
 
-- **Website**: `https://guidant.nz`  
-- **LinkedIn**: [`https://www.linkedin.com/in/[your-handle]` ](https://www.linkedin.com/in/pawaridtupmongkol/) 
-- **Email**: `guide@guidant.nz`
-
----
-
-> This profile is updated as new systems, patterns, and client-ready prototypes are built. Check the pinned repositories for the most representative work.
+- Website: https://guidant.nz  
+- LinkedIn:  [https://www.linkedin.com/in/pawaridtupmongkol/]
+- Email: guide@guidant.nz
