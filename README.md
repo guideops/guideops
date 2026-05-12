@@ -40,15 +40,15 @@ Regular tools of the trade include Anthropic, OpenAI, modern web stacks, and int
 
 These are reference implementations, not rigid products. They are designed to be adapted to the tools and constraints of a specific organisation.
 
-- Agentic OS — operating system for AI-powered workflows  
+- [Agentic OS](https://github.com/guideops/agentic-os) — operating system for AI-powered workflows  
   Turns your AI stack into a clickable workspace with agents, memory, notifications, and approvals wired into real processes.  
   Good fit for teams who have outgrown “chat with a model” and want structured workflows.
 
-- Command Centre — observability and control for AI environments  
+- [Command Centre](https://github.com/guideops/command-centre) — observability and control for AI environments  
   A command-centre style UI that surfaces usage, health, posture checks, and queued tasks, with controls to pause, approve, or override behaviour.  
   Good fit for teams who want to see what their AI systems are doing and be able to intervene.
 
-- Guidant 365 — workflow OS for contractors and freelancers  
+- [Guidant 365](https://github.com/guideops/guidant-365) — workflow OS for contractors and freelancers  
   Tracks jobs from first inquiry to completed work, with stages, next actions, and AI-assisted data extraction under human review.  
   Good fit for operators who live in their pipeline and need a clear “what is next?” at all times.
 
