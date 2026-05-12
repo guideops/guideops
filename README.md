@@ -67,14 +67,6 @@ The common thread is turning powerful models into reliable systems with clear in
 
 ---
 
-## Credentials and ongoing study
-
-- Anthropic Claude Certified Associate (CCA‑F) — completed
-- Candidate for a Masters in Applied AI  
-- Ongoing work across AI implementation, systems design, and operations consulting
-
----
-
 ## Work with me
 
 Most of the code here underpins consulting and implementation engagements – tailoring these patterns to a specific business, stack, and risk profile.
